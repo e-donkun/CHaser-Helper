@@ -1,4 +1,4 @@
-# Serverプログラムをここに
+## Serverプログラムをここに
 
 https://www.procon-asahikawa.org/
 
